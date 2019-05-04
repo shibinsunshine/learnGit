@@ -3,3 +3,4 @@ add word
 read log
 branch
 solve conflict
+origin dev
