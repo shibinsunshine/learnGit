@@ -4,3 +4,4 @@ read log
 branch
 solve conflict
 origin dev
+origin edit
